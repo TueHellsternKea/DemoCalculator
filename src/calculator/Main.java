@@ -18,5 +18,6 @@ public class Main {
 
         // divide
         System.out.println("\nCalculate divide: " + calculator.divide(20, 10));
+        System.out.println("\nCalculate divide: " + calculator.divide(20, 5));
     }
 }
